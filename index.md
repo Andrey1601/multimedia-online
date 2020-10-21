@@ -5,7 +5,7 @@
 <h1>multimedia-online Moh.Andrey Fan Afandi(1800016108)</h1>
 
 <p><a href="projek.html">PRAKTIKUM1</a></p>
-<p><a href="">PRAKTIKUM2</a></p>
+<p><a href="Praktikum 2.html">PRAKTIKUM2</a></p>
 <p><a href="">PRAKTIKUM3</a></p>
 <p><a href="">PRAKTIKUM4</a></p>
 <p><a href="">PRAKTIKUM5</a></p>
