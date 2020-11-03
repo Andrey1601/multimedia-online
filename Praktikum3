@@ -1,0 +1,23 @@
+<html>
+
+
+<head>
+<title>Click mouse and draw line</title>
+<style type="text/css">
+canvas{
+background-color: #d3d3d3;
+}
+</style>
+</head>
+<body>
+<canvas height="450" width="800" id="canvas"></
+canvas>
+<script type="text/javascript">
+var c=document.getElementById('canvas');
+var ctx=c.getContext('2d');
+var lines=[];
+document.body.addEventListener('mousedown',dra
+wline);
+function drawline(e)
+{
+var x=e.offsetX;
