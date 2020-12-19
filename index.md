@@ -11,7 +11,7 @@
 <p><a href="praktikum5.html">PRAKTIKUM5</a></p>
 <p><a href="">PRAKTIKUM6</a></p>
 <p><a href="prak7/praktikum7.html">PRAKTIKUM7</a></p>
-<p><a href="">PRAKTIKUM8</a></p>
+<p><a href="praktikum8.html">PRAKTIKUM8</a></p>
 <p><a href="">PRAKTIKUM9</a></p>
 <p><a href="">PRAKTIKUM10</a></p>
 
