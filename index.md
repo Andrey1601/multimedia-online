@@ -13,7 +13,7 @@
 <p><a href="prak7/praktikum7.html">PRAKTIKUM7</a></p>
 <p><a href="praktikum8.html">PRAKTIKUM8</a></p>
 <p><a href="prak9/praktikum9">PRAKTIKUM9</a></p>
-<p><a href="">PRAKTIKUM10</a></p>
+<p><a href="prak10.html">PRAKTIKUM10</a></p>
 <p><a href="game balap/index.html">RESPONSI MULTIMEDIA ONLINE</a></p>
 
 
