@@ -14,7 +14,7 @@
 <p><a href="praktikum8.html">PRAKTIKUM8</a></p>
 <p><a href="prak9/praktikum9">PRAKTIKUM9</a></p>
 <p><a href="">PRAKTIKUM10</a></p>
-<p><a href="balap mobil/index.html">RESPONSI</a></p>
+<p><a href="balap mobil/index.html">RESPONSI MULTIMEDIA ONLINE</a></p>
 
 
 
